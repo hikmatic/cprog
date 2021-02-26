@@ -3,7 +3,7 @@
 int main()
 {
     int x;
-    printf("test:   ");
+    printf("test2:   ");
     char a[100];
     
     scanf("%s", a);
